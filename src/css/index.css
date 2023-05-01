@@ -590,7 +590,7 @@ body, html{
 	width:auto;
 	height:auto;
 	top:0%;
-	transform:translateY(-50%) scale(0);
+	transform:translateY(0%) scale(0);
 	opacity: 0;
 	animation:thirdCanvasBalloons 500ms ease 2s 1 forwards;
 }
