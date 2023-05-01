@@ -433,7 +433,7 @@ body, html{
 	height: 0%;
 	left:0;
 	bottom:0;
-	background: #fff;
+	background: #1fe405;
 	z-index: 2;
 	animation:canvasRemove 500ms ease 3s 1 forwards;
 }
