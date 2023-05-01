@@ -701,7 +701,7 @@ body, html{
 @keyframes thirdCanvasLastText{
 	from{
 		opacity: 0;
-		top:2em;
+		top: 2em;
 		
 	}
 	to{
