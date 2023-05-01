@@ -606,7 +606,6 @@ body, html{
 	position: absolute;
 	width:auto;
 	height:auto;
-	top:50%;
 	transform:translateY(-50%) scale(0);
 	opacity: 0;
 	animation:thirdCanvasBalloons 500ms ease 2s 1 forwards;
